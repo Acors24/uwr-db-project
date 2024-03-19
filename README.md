@@ -1,0 +1,4 @@
+My solution for the following task, received during the database course at my university in 2023:
+
+> Design and write an application that performs the task: \
+> "A company has a network of water stations on rivers and lakes, along which there are kayaking routes. Each station has a parking lot, a campsite, and some also offer indoor accommodation (cottages) and kayak rentals. Stations also provide transport for kayaks and people. Design a database with information about the stations and their equipment, as well as the trail network (approximate location of the stations, transport and sailing times). The customer should be able to book equipment and stay. In addition to individual customers, you can also reserve equipment and places for larger groups. Additionally, the database records the customer's departure on the trail to check whether they reach the planned destination on time."
