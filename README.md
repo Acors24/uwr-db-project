@@ -10,7 +10,7 @@ Its focus was on designing the database and creating appropriate triggers for it
 ### Highlights
 
 - Fully manually-written with PHP, pure CSS, PostgreSQL.
-- A recursive SQL query for finding a path between two nodes in a graph (new_trip.php:51)
+- A recursive SQL query for finding a path between two nodes in a graph (https://github.com/Acors24/uwr-db-project/blob/f056a02790942614e5df7bec03c4a943ab63bfdd/server/html/new_trip.php#L74-L81)
 
 ### Database diagram
 
